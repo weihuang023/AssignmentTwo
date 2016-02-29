@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AssignmentTwo</string>
+    <string name="app_title">Assignment Two</string>
+    <string name="about_button_label">About</string>
+    <string name="exit_button_label">Exit</string>
+    <string name="about_text">This is the <b>About Layout View</b> for assignment two.....</string>
+</resources>
